@@ -6,6 +6,7 @@ void main(List<String> args) {
   gurban.age = 29;
   gurban.grad = true;
   print(gurban);
+  gurban.sayHello();
 }
 
 class Student {
